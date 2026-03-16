@@ -67,7 +67,7 @@ else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
  ```
 # Output : 
-<img width="635" height="835" alt="image" src="https://github.com/user-attachments/assets/26b9fb96-ab42-48e3-94da-362139344da4" />
+![image]https://github.com/Gdeepika-Cse/Poisson_distribution/blob/main/exp2.png
 
 # Result :
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
